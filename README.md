@@ -12,6 +12,6 @@ Here are some of my featured projects:
 * 📈 Statistics of my plugins: [OctoPluginStats](https://cp2004.github.io/OctoPluginStats/)
 
 ### Coming soon 👀
-* Re-write of Marlin EEPROM Editor (Hopefully before 2020)
+* Re-write of Marlin EEPROM Editor (Hopefully 2020)
 * [WLED](https://github.com/Aircoookie/WLED) connection plugin (2021)
 * More contributions to core OctoPrint to make it even better!
