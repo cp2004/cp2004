@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Charlie Powell here, contributing to OctoPrint projects!
+Charlie Powell here!
 
 Here are some of my featured projects:
 
