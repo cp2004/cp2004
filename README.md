@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Charlie Powell here!
-
 Here are some of my featured projects:
 
 * 🔦 [WS281x LED Status](https://github.com/cp2004/OctoPrint-WS281x_LED_Status)
@@ -12,6 +10,6 @@ Here are some of my featured projects:
 * 📈 Statistics of my plugins: [OctoPluginStats](https://cp2004.github.io/OctoPluginStats/)
 
 ### Coming soon 👀
-* Re-write of Marlin EEPROM Editor (Hopefully 2020)
+* Re-write of Marlin EEPROM Editor (**[Get the release candidate now!](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/issues/16)**)
 * [WLED](https://github.com/Aircoookie/WLED) connection plugin (2021)
 * More contributions to core OctoPrint to make it even better!
