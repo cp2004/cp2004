@@ -15,6 +15,6 @@ Here are some of my featured projects:
 
 ### Coming soon 👀
 * [WLED](https://github.com/Aircoookie/WLED) connection plugin (2021)
-* [Marlin EEPROM Editor 3.1.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin
+* [Marlin EEPROM Editor 3.1.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin)
 * More contributions to core OctoPrint
 * More experimentation with fun projects sometime somewhere
