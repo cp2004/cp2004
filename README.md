@@ -10,8 +10,9 @@ Here are some of my featured projects:
 * 📈 Statistics of my plugins: [OctoPluginStats](https://cp2004.github.io/OctoPluginStats/)
 
 ### Recent releases 🔖
-* Marlin EEPROM Editor [3.0.1](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.0.1)
-* WS281x LED Status [0.7.0/1](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/releases/tag/0.7.0)
+* Marlin EEPROM Editor [3.0.2](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.0.2)
+* WS281x LED Status [0.7.2](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/releases/tag/0.7.2)
+* Virtual Printer Settings [1.5.1](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings)
 
 ### Coming soon 👀
 * [WLED](https://github.com/Aircoookie/WLED) connection plugin (2021)
