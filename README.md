@@ -3,6 +3,7 @@
 Here are some of my featured projects:
 
 * 🔦 [WS281x LED Status](https://github.com/cp2004/OctoPrint-WS281x_LED_Status)
+* 🔦 [WLED Connection](https://github.com/cp2004/OctoPrint-WLED)
 * ✏️ [Marlin EEPROM Editor](https://github.com/cp2004/OctoPrint-EEPROM-Marlin)
 * ⚙️ [Virtual Printer Settings](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings)
 * ⬆️ [OctoPrint Upgrade To Python 3](https://github.com/cp2004/Octoprint-Upgrade-To-Py3)
