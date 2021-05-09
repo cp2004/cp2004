@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 Here are some of my featured projects:
 
@@ -8,7 +8,7 @@ Here are some of my featured projects:
 * ⚙️ [Virtual Printer Settings](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings)
 * ⬆️ [OctoPrint Upgrade To Python 3](https://github.com/cp2004/Octoprint-Upgrade-To-Py3)
 
-* 📈 Statistics of my plugins: [OctoPluginStats](https://cp2004.github.io/OctoPluginStats/)
+* 📈 Statistics of my plugins: [OctoPluginStats](https://octopluginstats.vercel.app)
 
 ### Recent releases 🔖
 * Marlin EEPROM Editor [3.0.2](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.0.2)
