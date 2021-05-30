@@ -14,10 +14,10 @@ Here are some of my featured projects:
 * Marlin EEPROM Editor [3.0.2](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.0.2)
 * WS281x LED Status [0.7.2](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/releases/tag/0.7.2)
 * Virtual Printer Settings [1.5.1](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings/releases/tag/1.5.1)
-* WLED Connection plugin [initial release](https://plugins.octoprint.org/plugins/wled)
+* WLED Connection plugin [0.2.0](https://github.com/cp2004/OctoPrint-WLED/releases/tag/0.2.0)
 
 ### Coming soon 👀
-* [Marlin EEPROM Editor 3.1.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin)
+* [Marlin EEPROM Editor 3.1.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin) - get the [release candidate now!](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.1.0rc1)
 * [WS281x LED Status 0.8.0](https://github.com/cp2004/OctoPrint-WS281x_LED_Status)
 * More contributions to core OctoPrint!
 * More experimentation with fun projects sometime somewhere...
