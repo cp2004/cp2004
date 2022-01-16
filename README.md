@@ -11,8 +11,9 @@ Here are some of my featured projects:
 * 📈 Statistics of my plugins: [OctoPluginStats](https://octopluginstats.vercel.app)
 
 ### Recent releases 🔖
-* New [Gcode Macro Plugin](https://plugins.octoprint.org/plguins/gcode_macro)
-* Marlin EEPROM Editor [3.1.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.1.0)
+* New [OneDrive Backup Plugin](https://plugins.octoprint.org/plugins/onedrive_backup)
+* Gcode Macro [1.1.0](https://github.com/cp2004/OctoPrint-GCodeMacros/releases/tag/1.1.0)
+* Marlin EEPROM Editor [3.2.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.2.0)
 * WS281x LED Status [0.7.2](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/releases/tag/0.7.2)
 * Virtual Printer Settings [1.5.1](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings/releases/tag/1.5.1)
 * WLED Connection plugin [0.2.0](https://github.com/cp2004/OctoPrint-WLED/releases/tag/0.2.0)
