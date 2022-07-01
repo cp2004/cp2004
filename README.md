@@ -5,7 +5,7 @@ Here are some of my featured projects:
 * 🔦 [WS281x LED Status](https://github.com/cp2004/OctoPrint-WS281x_LED_Status)
 * 🔦 [WLED Connection](https://github.com/cp2004/OctoPrint-WLED)
 * ✏️ [Marlin EEPROM Editor](https://github.com/cp2004/OctoPrint-EEPROM-Marlin)
-* ⚙️ [Virtual Printer Settings](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings)
+* ⚙️ [OneDrive Backup](https://github.com/cp2004/OctoPrint-OneDrive-Backup)
 * ⬆️ [OctoPrint Upgrade To Python 3](https://github.com/cp2004/Octoprint-Upgrade-To-Py3)
 
 * 📈 Statistics of my plugins: [OctoPluginStats](https://octopluginstats.vercel.app)
@@ -15,7 +15,7 @@ Here are some of my featured projects:
 * Gcode Macro [1.1.0](https://github.com/cp2004/OctoPrint-GCodeMacros/releases/tag/1.1.0)
 * Marlin EEPROM Editor [3.2.0](https://github.com/cp2004/OctoPrint-EEPROM-Marlin/releases/tag/3.2.0)
 * WS281x LED Status [0.8.0](https://github.com/cp2004/OctoPrint-WS281x_LED_Status/releases/tag/0.8.0)
-* Virtual Printer Settings [1.5.1](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings/releases/tag/1.5.1)
+* Virtual Printer Settings [2022.07.01](https://github.com/cp2004/OctoPrint-VirtualPrinterSettings/releases/tag/2022.07.01)
 * WLED Connection plugin [0.2.0](https://github.com/cp2004/OctoPrint-WLED/releases/tag/0.2.0)
 
 
